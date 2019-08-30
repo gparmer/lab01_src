@@ -7,6 +7,7 @@
 
 int hello(char *);
 
+<<<<<<< HEAD
 void *ec_malloc(size_t sz)
 {
         void *ptr;
@@ -17,4 +18,6 @@ void *ec_malloc(size_t sz)
         return ptr;
 }
 
+=======
+>>>>>>> f4d20a3bcc877f44a1bd5f45d422ced5b40415df
 #endif
