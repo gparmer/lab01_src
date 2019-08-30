@@ -10,3 +10,4 @@ hello: hello.c
 
 clean:
 		@rm -rf hello
+		@rm -rf hello.dSYM
